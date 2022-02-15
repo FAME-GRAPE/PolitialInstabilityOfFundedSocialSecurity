@@ -1,5 +1,7 @@
 This package provides full replication codes for the paper "Political Instability of Funded Social Security" by R. Beetsma, O. Komada, K. Makarski, J. Tyrowicz, Journal of Economic Dynamics and Control, 2021, https://doi.org/10.1016/j.jedc.2021.104237
 
+You can read more about this paper (slides from talks, etc.) here: https://grape.org.pl/article/political-instability-funded-pension-systems
+
 The package provides
 * RAR file with a full respositorium of the F90 files
 * ZIP file with a full repositorium of the data files (which should be placed in the same directory as F90 files)

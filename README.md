@@ -1,6 +1,14 @@
 ----------------------------------------------------------------------------------------------------------	
-I. Heterogenity of housueholds
-----------------------------------------------------------------------------------------------------------	You need the following settings to ran:
+I. Code setup
+----------------------------------------------------------------------------------------------------------
+
+File "F90 files and project" consist of fortran files. 
+To ran them properly you need to unpack the data files in the same directory.
+
+----------------------------------------------------------------------------------------------------------	
+II. Heterogenity of housueholds
+----------------------------------------------------------------------------------------------------------	
+You need the following settings to ran:
 
 	1. homogenous_cohort version
 			integer, parameter :: bigM = 1
@@ -11,7 +19,8 @@ I. Heterogenity of housueholds
 				here there is heterogenous in time discount factor (3 types) and productivity (10 types)
 				there is also a way to include heterogenity in preferences for leisure if you want to do so you should set bigM  to 120 (compare line 260-268 in data.f90)
 				
-----------------------------------------------------------------------------------------------------------	II. Scenario type 
+----------------------------------------------------------------------------------------------------------	
+III. Scenario type 
 ----------------------------------------------------------------------------------------------------------	
 You need the following switch settings to ran : 
 

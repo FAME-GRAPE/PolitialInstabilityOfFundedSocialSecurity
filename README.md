@@ -2,7 +2,7 @@ This package provides full replication codes for the paper "Political Instabilit
 
 The package provides
 * RAR file with a full respositorium of the F90 files
-* RAR file with a full repositorium of the data files (which should be placed in the same directory as F90 files)
+* ZIP file with a full repositorium of the data files (which should be placed in the same directory as F90 files)
 * STATA dofile which generates the full set of results based on computations performed on your computer
 (Warning: the full set of results is 6+ GB of results)
 
